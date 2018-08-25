@@ -9,7 +9,7 @@ if number <0
             result = false
             break
         end
-    end
+  
 
    result
 end
