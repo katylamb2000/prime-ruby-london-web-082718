@@ -13,7 +13,3 @@ def prime?( number )
     return result
 end
 
-number = 13
-
-puts "The number #{number} is primes? #{isPrime(number)}"
-end
