@@ -13,4 +13,3 @@ if number <0
 
    result
 end
-end
